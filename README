@@ -1,0 +1,1 @@
+This class explores the theorem that if you perform the same experiment a large number of times, the average of the results should be close to the expected value.  In this case we are using coin tosses so the expected value should be around 50%.
