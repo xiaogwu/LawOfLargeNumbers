@@ -9,12 +9,12 @@ import java.text.DecimalFormat;
 
 public class LawOfLargeNumbers {
 
-    /** Main mathod
+    /** Main method
      *  @params args Command line argument for the number of coin toss
      */
 
     public static void main(String[] args) {
-        int numberOfTosses = 0; // Number of Tosses to performe
+        int numberOfTosses = 0; // Number of Tosses to perform
         double average = 0.0; // Expected value
 
         DecimalFormat averageFormatter = new DecimalFormat("#0%"); // Decimal Formatter for average value percentage
